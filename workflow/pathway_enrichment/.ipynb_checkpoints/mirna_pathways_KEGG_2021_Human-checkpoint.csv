@@ -1,0 +1,168 @@
+Term,Asymptomatic,Symptomatic
+AGE-RAGE signaling pathway in diabetic complications,1,3.3447769497165822
+AMPK signaling pathway,1,2.185669581962609
+Acute myeloid leukemia,1,2.9307363102401234
+Adherens junction,1,2.793358045697618
+Adipocytokine signaling pathway,1,2.132280843420153
+African trypanosomiasis,1,2.0548840795936503
+Aldosterone-regulated sodium reabsorption,1,1.986387943607195
+Alzheimer disease,1,2.001291175767163
+Amoebiasis,1,2.4002187651920273
+Amphetamine addiction,1,1.9099884073146105
+Amyotrophic lateral sclerosis,1,1.4172667602102615
+Apelin signaling pathway,1,1.8164609513812109
+Apoptosis,1,2.8530775341783556
+Arrhythmogenic right ventricular cardiomyopathy,1,2.135901014631392
+Autophagy,1,2.4896062226543507
+Axon guidance,1,1.4713984767460704
+B cell receptor signaling pathway,1,2.4593374539898605
+Bacterial invasion of epithelial cells,1,2.5864426349052017
+Basal cell carcinoma,1,1.8452784175585963
+Basal transcription factors,1,2.090934677481258
+Bladder cancer,1,3.807243558580457
+Breast cancer,1,2.706513986423429
+C-type lectin receptor signaling pathway,1,2.420687816582245
+Carbohydrate digestion and absorption,1,2.2070977151191054
+Cell cycle,1,2.8862047043865227
+Cellular senescence,1,3.038538635198221
+Central carbon metabolism in cancer,1,2.8968157510938264
+Chagas disease,1,2.806852529010167
+Chemical carcinogenesis,1,2.0284886514678484
+Chemokine signaling pathway,1,1.8251000336561833
+Choline metabolism in cancer,1,1.9706229599277727
+Cholinergic synapse,1,1.6358488947353371
+Chronic myeloid leukemia,1,3.355997895592065
+Colorectal cancer,1,3.7494069618288415
+Coronavirus disease,1,1.9723000858511157
+Cushing syndrome,1,1.9061298448755912
+Diabetic cardiomyopathy,1,2.1935572383392334
+Dilated cardiomyopathy,1,1.6326476248826263
+Dopaminergic synapse,1,1.6089123530774787
+Endocytosis,1,1.6257639419404124
+Endometrial cancer,1,3.4332631124074973
+Epithelial cell signaling in Helicobacter pylori infection,1,2.9307363102401234
+Epstein-Barr virus infection,1,2.325335092714772
+ErbB signaling pathway,1,2.6975638740344623
+Estrogen signaling pathway,1,2.227724796568817
+Fanconi anemia pathway,1,1.7764445024129383
+Fc epsilon RI signaling pathway,1,2.3973647595259253
+Fc gamma R-mediated phagocytosis,1,1.6553232863393292
+Ferroptosis,1,1.6105848191409688
+Fluid shear stress and atherosclerosis,1,2.242696065362962
+Focal adhesion,1,2.1944857281755676
+FoxO signaling pathway,1,2.8862047043865227
+Gap junction,1,1.67739426349052
+Gastric cancer,1,2.7956571058175337
+Glioma,1,2.974783876899664
+Glucagon signaling pathway,1,2.025336726815179
+GnRH secretion,1,1.687780605679316
+GnRH signaling pathway,1,1.820855614973262
+Graft-versus-host disease,1,2.291986088777533
+"Growth hormone synthesis, secretion and action",1,2.4653751073138945
+HIF-1 signaling pathway,1,2.5160913952357804
+Hedgehog signaling pathway,1,1.8314215082903216
+Hepatitis B,1,3.1687617195638587
+Hepatitis C,1,2.8902470078940667
+Hepatocellular carcinoma,1,2.726414824558895
+Hippo signaling pathway,1,2.2070977151191054
+Human T-cell leukemia virus 1 infection,1,2.744577469578162
+Human cytomegalovirus infection,1,2.3979818418321095
+Human immunodeficiency virus 1 infection,1,2.1944857281755676
+Human papillomavirus infection,1,2.2149521553864333
+Huntington disease,1,1.7692524194072183
+Hypertrophic cardiomyopathy,1,1.823254634228826
+IL-17 signaling pathway,1,2.0691541079241613
+Inflammatory bowel disease,1,2.6485172581429266
+Inflammatory mediator regulation of TRP channels,1,1.6553232863393292
+Influenza A,1,2.520044406068829
+Insulin resistance,1,2.3949358185334977
+Insulin signaling pathway,1,2.0415653864851726
+JAK-STAT signaling pathway,1,2.1143625170048574
+Kaposi sarcoma-associated herpesvirus infection,1,2.5591501113957724
+Legionellosis,1,2.1646535282898918
+Leishmaniasis,1,1.953824206826749
+Leukocyte transendothelial migration,1,1.8810491890219647
+Lipid and atherosclerosis,1,2.2651792339380292
+Long-term depression,1,1.621541178454853
+Long-term potentiation,1,1.4110952604859854
+Longevity regulating pathway,1,2.574947334305623
+MAPK signaling pathway,1,1.9889055455636047
+Malaria,1,2.4593374539898605
+Measles,1,2.6934073811622987
+Melanogenesis,1,1.6938191767193134
+Melanoma,1,3.0478968446882884
+MicroRNAs in cancer,1,3.7479017803909342
+Mitophagy,1,2.135901014631392
+NF-kappa B signaling pathway,1,1.674349990780011
+NOD-like receptor signaling pathway,1,1.7752742491175413
+Natural killer cell mediated cytotoxicity,1,1.8392480959325876
+Necroptosis,1,2.333217584554483
+Neurotrophin signaling pathway,1,2.7087108321916293
+Non-alcoholic fatty liver disease,1,2.4523307945767834
+Non-small cell lung cancer,1,3.4588844789180007
+Notch signaling pathway,1,1.9312105007292173
+Nucleotide excision repair,1,1.5764983679422182
+Oocyte meiosis,1,2.1188138065143414
+Osteoclast differentiation,1,2.2873558138507093
+Oxytocin signaling pathway,1,1.2919596381185008
+PD-L1 expression and PD-1 checkpoint pathway in cancer,1,2.664666753619408
+PI3K-Akt signaling pathway,1,2.0896989004851108
+Pancreatic cancer,1,3.90021377055294
+"Parathyroid hormone synthesis, secretion and action",1,1.655323286339329
+Parkinson disease,1,1.7613292110802714
+Pathogenic Escherichia coli infection,1,1.986387943607195
+Pathways in cancer,1,2.296893981901253
+Pathways of neurodegeneration,1,1.651153706272983
+Pertussis,1,1.7087208117051138
+Phagosome,1,1.4648878640171052
+Phosphatidylinositol signaling system,1,1.5579513283193687
+Phospholipase D signaling pathway,1,1.4713984767460704
+Platelet activation,1,1.655323286339329
+Prion disease,1,1.9364159198686492
+Progesterone-mediated oocyte maturation,1,2.461762836094387
+Prolactin signaling pathway,1,3.0478968446882884
+Prostate cancer,1,3.6531272526109335
+Protein processing in endoplasmic reticulum,1,1.400658165364048
+Proteoglycans in cancer,1,2.641655814468981
+Pyrimidine metabolism,1,2.0017862997591886
+RIG-I-like receptor signaling pathway,1,1.8176098830392635
+RNA transport,1,1.3421540159508074
+Rap1 signaling pathway,1,1.5817533625020255
+Ras signaling pathway,1,2.0001823043266893
+Regulation of actin cytoskeleton,1,1.5579513283193684
+Regulation of lipolysis in adipocytes,1,2.309753422799064
+Relaxin signaling pathway,1,2.391022524712364
+Renal cell carcinoma,1,3.261233937265544
+Rheumatoid arthritis,1,1.958410648626812
+Ribosome,1,1.561117896059855
+Salmonella infection,1,2.1067750917046006
+Shigellosis,1,2.466093875566756
+Signaling pathways regulating pluripotency of stem cells,1,2.35103887045296
+Small cell lung cancer,1,3.002679449638783
+Sphingolipid signaling pathway,1,2.291986088777533
+Spinocerebellar ataxia,1,1.655323286339329
+T cell receptor signaling pathway,1,2.5630812175576714
+TGF-beta signaling pathway,1,2.4927221253109897
+TNF signaling pathway,1,2.7913294632388688
+Th1 and Th2 cell differentiation,1,1.8917980415306617
+Th17 cell differentiation,1,2.2070977151191054
+Thermogenesis,1,1.6647822765469824
+Thyroid cancer,1,2.6083882087771246
+Thyroid hormone signaling pathway,1,2.6999447777185175
+Tight junction,1,1.8013812233692699
+Toll-like receptor signaling pathway,1,2.4435724703104382
+Toxoplasmosis,1,2.2303303226466746
+Transcriptional misregulation in cancer,1,1.848802631495874
+Tuberculosis,1,1.6195968844758903
+Type II diabetes mellitus,1,3.136402016221887
+Ubiquitin mediated proteolysis,1,2.2243406660184735
+VEGF signaling pathway,1,2.546651209752814
+Vasopressin-regulated water reabsorption,1,2.2701576498367944
+Vibrio cholerae infection,1,1.7341482047364398
+Viral carcinogenesis,1,2.769691250345544
+Wnt signaling pathway,1,1.7233502707094386
+Yersinia infection,1,2.2247544968400583
+cAMP signaling pathway,1,1.7873429349430792
+cGMP-PKG signaling pathway,1,1.5361400097228974
+mTOR signaling pathway,1,2.037320967802251
+p53 signaling pathway,1,3.162408666439315
