@@ -1,0 +1,26 @@
+##DEPset=162,background_set=13434
+p-value	q-value	pathway	source	external_id	members_input_overlap	members_input_overlap_geneids	size	effective_size
+0.00136166245148	0.104618968689	Signaling pathways regulating pluripotency of stem cells - Homo sapiens (human)	KEGG	path:hsa04550	ACVR2B; PCGF5; COMMD3-BMI1; BMI1; MAP2K1; IL6ST	648; 93; 84333; 5604; 3572; 100532731	143	143
+0.00185166316263	0.104618968689	Hippo signaling pathway - multiple species - Homo sapiens (human)	KEGG	path:hsa04392	LATS2; STK3; YAP1	6788; 26524; 10413	29	29
+0.00602109260131	0.212527525637	Kaposi sarcoma-associated herpesvirus infection - Homo sapiens (human)	KEGG	path:hsa05167	CALM2; MAP2K1; CREB1; IL6ST; PLCG1; MAP2K4	805; 6416; 1385; 5335; 5604; 3572	193	193
+0.00930775269311	0.212527525637	Prostate cancer - Homo sapiens (human)	KEGG	path:hsa05215	HSP90AA1; MAP2K1; ZEB1; CREB1	6935; 1385; 3320; 5604	97	97
+0.0164299227883	0.212527525637	MicroRNAs in cancer - Homo sapiens (human)	KEGG	path:hsa05206	COMMD3-BMI1; DDIT4; EFNA5; BMI1; MAP2K1; PLCG1; ZEB1	54541; 648; 5335; 100532731; 6935; 1946; 5604	310	310
+0.0185252019852	0.212527525637	Growth hormone synthesis, secretion and action - Homo sapiens (human)	KEGG	path:hsa04935	PLCG1; MAP2K1; CREB1; MAP2K4	6416; 5335; 1385; 5604	119	119
+0.0192428451542	0.212527525637	Long-term potentiation - Homo sapiens (human)	KEGG	path:hsa04720	GRM5; MAP2K1; CALM2	805; 2915; 5604	67	67
+0.0192428451542	0.212527525637	Fc epsilon RI signaling pathway - Homo sapiens (human)	KEGG	path:hsa04664	PLCG1; MAP2K1; MAP2K4	5335; 6416; 5604	68	67
+0.0207922588921	0.212527525637	Renin secretion - Homo sapiens (human)	KEGG	path:hsa04924	CALM2; CREB1; PRKG2	805; 5593; 1385	69	69
+0.0258407983079	0.212527525637	Glioma - Homo sapiens (human)	KEGG	path:hsa05214	PLCG1; CALM2; MAP2K1	805; 5335; 5604	75	75
+0.0285900182587	0.212527525637	Antigen processing and presentation - Homo sapiens (human)	KEGG	path:hsa04612	HSP90AA1; KLRC3; CREB1	3823; 3320; 1385	78	78
+0.0292107933417	0.212527525637	Estrogen signaling pathway - Homo sapiens (human)	KEGG	path:hsa04915	HSP90AA1; MAP2K1; CALM2; CREB1	805; 1385; 3320; 5604	138	137
+0.0305827250776	0.212527525637	Fluid shear stress and atherosclerosis - Homo sapiens (human)	KEGG	path:hsa05418	HSP90AA1; ACVR2B; CALM2; MAP2K4	93; 3320; 805; 6416	139	139
+0.0312827745556	0.212527525637	Ubiquitin mediated proteolysis - Homo sapiens (human)	KEGG	path:hsa04120	FBXW7; DDB1; TRIM37; UBE2D1	1642; 7321; 4591; 55294	140	140
+0.0332346655071	0.212527525637	Rap1 signaling pathway - Homo sapiens (human)	KEGG	path:hsa04015	PLCG1; P2RY1; CALM2; EFNA5; MAP2K1	5335; 805; 1946; 5028; 5604	210	210
+0.0344096287312	0.212527525637	Human immunodeficiency virus 1 infection - Homo sapiens (human)	KEGG	path:hsa05170	CCNB1; DDB1; CALM2; PLCG1; MAP2K1	1642; 891; 5335; 805; 5604	212	212
+0.0355841505082	0.212527525637	ErbB signaling pathway - Homo sapiens (human)	KEGG	path:hsa04012	PLCG1; MAP2K1; MAP2K4	5335; 5604; 6416	85	85
+0.0362200785589	0.212527525637	Lipid and atherosclerosis - Homo sapiens (human)	KEGG	path:hsa05417	HSP90AA1; PLCG1; POU2F1; CALM2; MAP2K4	6416; 5335; 3320; 805; 5451	215	215
+0.0388275038135	0.212527525637	Gap junction - Homo sapiens (human)	KEGG	path:hsa04540	GRM5; MAP2K1; PRKG2	2915; 5593; 5604	88	88
+0.044555888601	0.212527525637	GnRH signaling pathway - Homo sapiens (human)	KEGG	path:hsa04912	MAP2K1; CALM2; MAP2K4	6416; 805; 5604	93	93
+0.0475824084404	0.212527525637	Thermogenesis - Homo sapiens (human)	KEGG	path:hsa04714	ARID1B; NDUFAF7; CREB1; ACSL4; PRKG2	55471; 2182; 57492; 1385; 5593	232	232
+0.0490801493375	0.212527525637	Hepatitis B - Homo sapiens (human)	KEGG	path:hsa05161	MAP2K1; DDB1; CREB1; MAP2K4	1642; 1385; 6416; 5604	162	162
+0.0494245808249	0.212527525637	Circadian entrainment - Homo sapiens (human)	KEGG	path:hsa04713	CALM2; CREB1; PRKG2	805; 1385; 5593	97	97
+0.0494245808249	0.212527525637	Phosphatidylinositol signaling system - Homo sapiens (human)	KEGG	path:hsa04070	PLCG1; IPMK; CALM2	5335; 805; 253430	97	97
