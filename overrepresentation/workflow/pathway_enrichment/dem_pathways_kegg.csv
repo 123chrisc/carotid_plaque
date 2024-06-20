@@ -1,0 +1,153 @@
+pathway,q-value,fold_enrichment,cohort
+Pancreatic cancer,1.68352574776e-19,3.695097612772817,symptomatic
+Bladder cancer,6.17436256196e-11,3.6636588923011257,symptomatic
+Colorectal cancer,3.18254633502e-20,3.5691965042792058,symptomatic
+Prostate cancer,1.35813444117e-18,3.231770820281764,symptomatic
+AGE-RAGE signaling pathway in diabetic complications,1.0683148554800001e-18,3.2001263976665046,symptomatic
+Chronic myeloid leukemia,2.6554669001199996e-14,3.179502597037075,symptomatic
+Non-small cell lung cancer,1.47446448367e-13,3.1747285691135962,symptomatic
+Endometrial cancer,4.51869800323e-11,3.152833889326606,symptomatic
+Renal cell carcinoma,1.23888843124e-12,3.12345966054406,symptomatic
+p53 signaling pathway,3.87004161426e-11,2.862847210660558,symptomatic
+Apoptosis - multiple species,1.78402063057e-05,2.8572557122022366,symptomatic
+Cellular senescence,5.9845756884199994e-21,2.804925021502562,symptomatic
+Small cell lung cancer,1.05916587602e-12,2.768521062754962,symptomatic
+Prolactin signaling pathway,1.56937036622e-09,2.705646225432322,symptomatic
+Hepatitis B,3.18254633502e-20,2.7010389095950598,symptomatic
+Glioma,4.44530608155e-10,2.699426349052018,symptomatic
+Cell cycle,1.36028650514e-15,2.6860837110103977,symptomatic
+Acute myeloid leukemia,1.12156157191e-08,2.6318432146511004,symptomatic
+Melanoma,3.17918988595e-09,2.6304893858369796,symptomatic
+Central carbon metabolism in cancer,7.18718794082e-09,2.6123480797277594,symptomatic
+Type II diabetes mellitus,6.37318817414e-06,2.5555579040815037,symptomatic
+FoxO signaling pathway,1.72164484733e-14,2.5425525203457195,symptomatic
+ErbB signaling pathway,7.89522285462e-10,2.5355143126769426,symptomatic
+Longevity regulating pathway - multiple species,1.80312899965e-07,2.528078786833315,symptomatic
+Epithelial cell signaling in Helicobacter pylori infection,3.38115295368e-08,2.5190499340231964,symptomatic
+TNF signaling pathway,3.0265859611800003e-12,2.507387665810126,symptomatic
+Gastric cancer,1.30570585344e-15,2.4983865863168164,symptomatic
+Apoptosis,2.06220433098e-14,2.4970974291515344,symptomatic
+Chagas disease,3.60179105069e-11,2.4970974291515344,symptomatic
+Breast cancer,2.25261316767e-15,2.487950552121675,symptomatic
+Adherens junction,4.69516522312e-08,2.4835703574876584,symptomatic
+Neurotrophin signaling pathway,1.7993896058400002e-12,2.469656798061957,symptomatic
+Proteoglycans in cancer,3.18254633502e-20,2.4530585626711883,symptomatic
+Hepatocellular carcinoma,1.0340458373e-16,2.449076324744774,symptomatic
+PD-L1 expression and PD-1 checkpoint pathway in cancer,2.83289582717e-09,2.421558613230788,symptomatic
+Human T-cell leukemia virus 1 infection,3.22806207627e-20,2.385706008883798,symptomatic
+Thyroid cancer,0.00048433312773,2.2946300700311397,symptomatic
+Hepatitis C,2.05060269558e-13,2.287884464729725,symptomatic
+HIF-1 signaling pathway,1.27673545086e-09,2.27681713370768,symptomatic
+Longevity regulating pathway,4.63534497747e-08,2.2747974851561947,symptomatic
+Thyroid hormone signaling pathway,1.88450015971e-10,2.2669136229042537,symptomatic
+T cell receptor signaling pathway,4.15593344945e-09,2.260685838225945,symptomatic
+Measles,1.11111849558e-11,2.2552645292613747,symptomatic
+Autophagy - animal,2.42394146524e-11,2.240517513635122,symptomatic
+Signaling pathways regulating pluripotency of stem cells,9.60237590622e-12,2.2378506277388146,symptomatic
+TGF-beta signaling pathway,4.86066900564e-08,2.223274961470433,symptomatic
+VEGF signaling pathway,2.12558019025e-05,2.213854304854033,symptomatic
+C-type lectin receptor signaling pathway,5.39575815347e-08,2.1350921805467262,symptomatic
+Kaposi sarcoma-associated herpesvirus infection,1.27560427133e-13,2.1318384588451917,symptomatic
+Bacterial invasion of epithelial cells,4.28028494439e-06,2.1204124023764277,symptomatic
+Hippo signaling pathway,9.87665085953e-11,2.079894967936114,symptomatic
+B cell receptor signaling pathway,2.6375832136e-06,2.070763721735419,symptomatic
+Insulin resistance,1.46382283857e-07,2.056014692378329,symptomatic
+Viral carcinogenesis,4.10526739287e-13,2.0489004546884386,symptomatic
+Fc epsilon RI signaling pathway,4.91664444384e-05,2.016886385083932,symptomatic
+Inflammatory bowel disease,9.78820786744e-05,2.0094985228675073,symptomatic
+Ubiquitin mediated proteolysis,7.02242756285e-09,2.005910132648101,symptomatic
+Non-alcoholic fatty liver disease,2.18549086997e-09,2.0028001944579485,symptomatic
+Yersinia infection,8.746006073e-09,2.002164586652662,symptomatic
+Pathways in cancer,4.09243165974e-30,1.9924688743686298,symptomatic
+Sphingolipid signaling pathway,1.80471916556e-07,1.9757254384495655,symptomatic
+Relaxin signaling pathway,5.48190281921e-08,1.9744491300267946,symptomatic
+Lipid and atherosclerosis,1.92054041682e-12,1.9744491300267946,symptomatic
+Fluid shear stress and atherosclerosis,1.75998491073e-08,1.973356463103703,symptomatic
+Legionellosis,0.000521581839254,1.9478033927794693,symptomatic
+Toll-like receptor signaling pathway,2.1190658143e-06,1.9467016940278974,symptomatic
+Human cytomegalovirus infection,1.88118407292e-12,1.9447480149084426,symptomatic
+Osteoclast differentiation,1.11396319212e-07,1.9388520904229463,symptomatic
+Shigellosis,2.2837823137000003e-13,1.9380224575216098,symptomatic
+Influenza A,1.03213604713e-09,1.9364789544493566,symptomatic
+"Growth hormone synthesis, secretion and action",5.84908921274e-07,1.9208441762704112,symptomatic
+Mitophagy - animal,0.000194720234928,1.9208441762704112,symptomatic
+Epstein-Barr virus infection,6.9403844956e-11,1.907531394850715,symptomatic
+MicroRNAs in cancer,1.36028650514e-15,1.8960590901249865,symptomatic
+Progesterone-mediated oocyte maturation,8.1024291445e-06,1.8939523578026252,symptomatic
+Focal adhesion,2.07949358377e-10,1.8845297092563438,symptomatic
+Toxoplasmosis,3.78193439411e-06,1.8659629140912564,symptomatic
+Amoebiasis,9.99051407911e-06,1.8568160370613973,symptomatic
+Human papillomavirus infection,1.36028650514e-15,1.8546882137039984,symptomatic
+mTOR signaling pathway,4.74775102891e-08,1.8539244436777644,symptomatic
+AMPK signaling pathway,2.2618493223e-06,1.850413223140496,symptomatic
+Salmonella infection,9.676589202530001e-12,1.8359876062343687,symptomatic
+Adipocytokine signaling pathway,0.000677149222635,1.7983555621314284,symptomatic
+Human immunodeficiency virus 1 infection,1.84406256994e-09,1.7867475073609673,symptomatic
+Vasopressin-regulated water reabsorption,0.00837029632317,1.7811464179961993,symptomatic
+Th17 cell differentiation,3.28896211974e-05,1.770048932525818,symptomatic
+Insulin signaling pathway,2.6375832136e-06,1.7638116596702023,symptomatic
+Basal cell carcinoma,0.00176312450737,1.7622983077528533,symptomatic
+MAPK signaling pathway,5.042154902760001e-12,1.7548936930143961,symptomatic
+Basal transcription factors,0.0099933253289,1.7415653864851728,symptomatic
+IL-17 signaling pathway,0.000166834766791,1.736933563648776,symptomatic
+Regulation of lipolysis in adipocytes,0.00306384567176,1.718650052452473,symptomatic
+Estrogen signaling pathway,7.14910152393e-06,1.7037052693876689,symptomatic
+Malaria,0.00907370521324,1.6980262518230436,symptomatic
+Arrhythmogenic right ventricular cardiomyopathy,0.0010894370562,1.696329921901142,symptomatic
+Pathogenic Escherichia coli infection,9.72028141536e-08,1.690732894240047,symptomatic
+Choline metabolism in cancer,0.000337819282113,1.6660383161529075,symptomatic
+PI3K-Akt signaling pathway,8.45380732276e-12,1.6419419427667414,symptomatic
+Ras signaling pathway,5.39575815347e-08,1.6327175498298494,symptomatic
+Oocyte meiosis,7.93684064271e-05,1.62006082463737,symptomatic
+Cushing syndrome,2.12492571318e-05,1.601116564994433,symptomatic
+African trypanosomiasis,0.0398417356809,1.5885900484830968,symptomatic
+Aldosterone-regulated sodium reabsorption,0.0467122398914,1.5885900484830968,symptomatic
+Glucagon signaling pathway,0.000548812772718,1.5869404222645265,symptomatic
+Coronavirus disease - COVID-19,2.72603091221e-07,1.576416944663303,symptomatic
+Th1 and Th2 cell differentiation,0.00192938875436,1.56172983027203,symptomatic
+Notch signaling pathway,0.0150674048167,1.5496980133978233,symptomatic
+GnRH signaling pathway,0.00223381018434,1.5449370363981372,symptomatic
+JAK-STAT signaling pathway,5.84481117939e-05,1.5319325158897352,symptomatic
+Leishmaniasis,0.00582529061776,1.526696929711028,symptomatic
+Necroptosis,8.83421475834e-05,1.519762247640363,symptomatic
+Hedgehog signaling pathway,0.0228133546838,1.516094867699146,symptomatic
+Alzheimer disease,2.50290144987e-09,1.5044009944231675,symptomatic
+Wnt signaling pathway,0.000100206199561,1.4950184793622716,symptomatic
+Pyrimidine metabolism,0.026108398019,1.4894967121254765,symptomatic
+Apelin signaling pathway,0.000564753451214,1.4777881472912506,symptomatic
+Rheumatoid arthritis,0.00451427250405,1.4747126256527672,symptomatic
+Chemokine signaling pathway,5.84481117939e-05,1.4626428050559068,symptomatic
+Transcriptional misregulation in cancer,5.17950471551e-05,1.4626428050559068,symptomatic
+Spinocerebellar ataxia,0.000564212071867,1.4614534711763687,symptomatic
+Diabetic cardiomyopathy,5.1022919734e-05,1.447729847139768,symptomatic
+Leukocyte transendothelial migration,0.00327107970123,1.4322083770437275,symptomatic
+Tight junction,0.000332173790491,1.429835487424957,symptomatic
+Endocytosis,1.07790130828e-05,1.4253883371530431,symptomatic
+Melanogenesis,0.00642534519354,1.4225657859903638,symptomatic
+Amphetamine addiction,0.0252123789075,1.4197543911563908,symptomatic
+"Parathyroid hormone synthesis, secretion and action",0.00558819112598,1.4170756092862844,symptomatic
+Fc gamma R-mediated phagocytosis,0.00738976916889,1.4138997338732717,symptomatic
+Gap junction,0.0124421163082,1.4100742475803245,symptomatic
+NF-kappa B signaling pathway,0.00809666425147,1.381530234471411,symptomatic
+Hypertrophic cardiomyopathy,0.0156458992328,1.3787392643007617,symptomatic
+Pertussis,0.0272527170163,1.3749200419619785,symptomatic
+Phosphatidylinositol signaling system,0.0167741647301,1.3465711751174014,symptomatic
+Rap1 signaling pathway,0.000471807828079,1.3372734217654005,symptomatic
+NOD-like receptor signaling pathway,0.00122824379497,1.3350397645017553,symptomatic
+Inflammatory mediator regulation of TRP channels,0.0185533328782,1.3328306529223262,symptomatic
+cAMP signaling pathway,0.000455095363247,1.3303624480095069,symptomatic
+Regulation of actin cytoskeleton,0.000544475687289,1.3181572879360253,symptomatic
+Platelet activation,0.00986444800996,1.316707701475685,symptomatic
+Axon guidance,0.00263846349122,1.2918204789862544,symptomatic
+Dopaminergic synapse,0.0113876354945,1.286383524108366,symptomatic
+Prion disease,0.000388509213848,1.267897877523546,symptomatic
+Protein processing in endoplasmic reticulum,0.00550373296853,1.2603433717984802,symptomatic
+Natural killer cell mediated cytotoxicity,0.0173323844065,1.2463492746792744,symptomatic
+Pathways of neurodegeneration - multiple diseases,7.66887622444e-06,1.2374280377657807,symptomatic
+Phospholipase D signaling pathway,0.0133846167115,1.2355700377090753,symptomatic
+Tuberculosis,0.00669398543339,1.2336088154269973,symptomatic
+Huntington disease,0.0006395213565,1.2165346449712604,symptomatic
+Cholinergic synapse,0.0414056211832,1.2137015414664367,symptomatic
+Ribosome,0.0189027726613,1.1987040239257123,symptomatic
+Parkinson disease,0.00469515382617,1.1802777468649515,symptomatic
+cGMP-PKG signaling pathway,0.0378938548373,1.134103208265045,symptomatic
