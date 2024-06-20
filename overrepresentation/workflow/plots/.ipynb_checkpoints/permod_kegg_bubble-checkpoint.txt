@@ -1,0 +1,45 @@
+pathway	cohort_encoded	q-value	fold_enrichment	class
+Phenylalanine, tyrosine and tryptophan biosynthesis	1.0	0.0288424166562692	443.7916666666667	Metabolism
+Complement and coagulation cascades	1.0	1.2302308639408768e-11	250.61176470588236	Organismal Systems
+Steroid biosynthesis	1.0	0.0239427634669806	177.51666666666665	Metabolism
+Caffeine metabolism	1.0	0.0026774710441851	83.5372549019608	Metabolism
+RNA polymerase	1.0	1.713876017177665e-55	66.15527950310559	Gene. Info. Processing
+Cholesterol metabolism	1.0	5.896419204222621e-05	53.255	Organismal Systems
+p53 signaling pathway	1.0	0.0127346911714131	53.0560398505604	Cellular Processes
+Proteasome	1.0	7.108092469614648e-65	36.71320015667842	Gene. Info. Processing
+Spliceosome	1.0	4.488386449099372e-149	32.840583333333335	Gene. Info. Processing
+Phototransduction	1.0	0.0393978068349627	27.66493506493506	Organismal Systems
+Protein processing in endoplasmic reticulum	1.0	1.9153843660650264e-09	27.34531450577664	Gene. Info. Processing
+Circadian rhythm	1.0	0.0425796930614477	26.947501581277677	Organismal Systems
+SNARE interactions in vesicular transport	1.0	2.725789885987063e-42	26.516668611662197	Gene. Info. Processing
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	1.0	8.171434229040987e-05	20.397701883179057	Metabolism
+Autoimmune thyroid disease	1.0	2.369810521453985e-16	19.1392632524708	Diseases
+Citrate cycle (TCA cycle)	1.0	1.7002837958192088e-21	17.75166666666667	Metabolism
+DNA replication	1.0	4.749695621391452e-05	12.903599861543784	Gene. Info. Processing
+Mismatch repair	1.0	1.8077264680082278e-17	12.119355611450471	Gene. Info. Processing
+Fanconi anemia pathway	1.0	1.1653800300182957e-29	11.854201446855871	Gene. Info. Processing
+Ribosome	1.0	5.2447617878771205e-21	11.513791540258744	Gene. Info. Processing
+Base excision repair	1.0	3.493700341721887e-08	9.252146603855536	Gene. Info. Processing
+Propanoate metabolism	1.0	9.20086806200732e-06	7.940803697905017	Metabolism
+Steroid biosynthesis	0.0	0.0239427634669806	177.51666666666665	Metabolism
+Arrhythmogenic right ventricular cardiomyopathy	0.0	0.0428928168436115	69.16233766233766	Diseases
+Antigen processing and presentation	0.0	0.0225422122328476	60.68945868945869	Organismal Systems
+p53 signaling pathway	0.0	0.0127346911714131	53.0560398505604	Cellular Processes
+Fc epsilon RI signaling pathway	0.0	0.0375679355085164	36.85467128027681	Organismal Systems
+Phototransduction	0.0	0.0393978068349627	27.66493506493506	Organismal Systems
+Circadian rhythm	0.0	0.0425796930614477	26.947501581277677	Organismal Systems
+Mitophagy	0.0	0.0105962276399112	22.376050420168063	Cellular Processes
+Ribosome	0.0	3.2015984957697806e-87	19.861242129741356	Gene. Info. Processing
+Citrate cycle (TCA cycle)	0.0	5.581294826329367e-22	18.63925	Metabolism
+Proteasome	0.0	2.5636412834161327e-48	15.194501183412768	Gene. Info. Processing
+SNARE interactions in vesicular transport	0.0	1.7383216655126058e-33	13.743502893203493	Gene. Info. Processing
+DNA replication	0.0	4.749695621391452e-05	12.903599861543784	Gene. Info. Processing
+Spliceosome	0.0	1.375999854037606e-110	12.521381337252022	Gene. Info. Processing
+Mismatch repair	0.0	1.8077264680082278e-17	12.119355611450471	Gene. Info. Processing
+Fanconi anemia pathway	0.0	1.1653800300182957e-29	11.854201446855871	Gene. Info. Processing
+RNA polymerase	0.0	2.1984496459909764e-05	10.950777535021206	Gene. Info. Processing
+Phosphonate and phosphinate metabolism	0.0	0.0463112922851124	9.442375886524824	Metabolism
+Base excision repair	0.0	3.493700341721887e-08	9.252146603855536	Gene. Info. Processing
+Propanoate metabolism	0.0	9.20086806200732e-06	7.940803697905017	Metabolism
+wrap	-0.5	0.001	1.0	z
+wrap	1.5	0.001	1.0	z

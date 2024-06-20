@@ -1,0 +1,47 @@
+pathway	cohort_encoded	q-value	fold_enrichment	class
+Regulation Of Hepatocyte Proliferation (GO:2000345)	1.0	0.0284611121334389	608.6285714285714	Development
+C-terminal Protein Lipidation (GO:0006501)	1.0	0.0233989585797138	532.5500000000001	Gene Regulation
+Regulation Of Endothelial Cell Differentiation (GO:0045601)	1.0	4.575242107082225e-06	499.265625	Development
+Sphingomyelin Biosynthetic Process (GO:0006686)	1.0	0.0015561151095725	387.3090909090909	Metabolism
+Complement Activation, Lectin Pathway (GO:0001867)	1.0	3.2128215630124764e-08	156.63235294117646	Immune and Stress Response
+Protein Retention In ER Lumen (GO:0006621)	1.0	0.0027762450519994	148.44599303135888	Cellular Structure and Transport
+Telomere Maintenance Via Recombination (GO:0000722)	1.0	7.081041095734997e-05	139.22875816993462	Gene Regulation
+Polyol Metabolic Process (GO:0019751)	1.0	0.0304120478416234	119.33893557422968	Metabolism
+snRNA Transcription By RNA Polymerase II (GO:0042795)	1.0	1.9582001727888852e-14	59.53975155279503	Gene Regulation
+Histone H3-K14 Acetylation (GO:0044154)	1.0	1.783098345194336e-14	58.27294832826748	Gene Regulation
+U2-type Prespliceosome Assembly (GO:1903241)	1.0	2.288922543185167e-36	44.37916666666667	Gene Regulation
+Ethanol Catabolic Process (GO:0006068)	1.0	1.379571473930933e-07	40.5752380952381	Metabolism
+Histone H2A Monoubiquitination (GO:0035518)	1.0	0.0373333148802422	40.04135338345864	Gene Regulation
+Regulation Of Macrophage Proliferation (GO:0120040)	1.0	0.0052697288867828	39.816822429906544	Immune and Stress Response
+ISG15-protein Conjugation (GO:0032020)	1.0	5.634187511726339e-07	38.38198198198198	Gene Regulation
+Nuclear-Transcribed mRNA Catabolic Process, Deadenylation-Independent Decay (GO:0031086)	1.0	0.0001414440757036	36.04399323181049	Gene Regulation
+Neutrophil Degranulation (GO:0043312)	1.0	2.8421597643319334e-06	27.34531450577664	Immune and Stress Response
+Regulation Of Mitochondrial mRNA Stability (GO:0044528)	1.0	1.514436721157024e-07	25.35952380952381	Gene Regulation
+Regulation Of SA Node Cell Action Potential (GO:0098907)	1.0	0.0073566396199291	25.22439313203079	Development
+DNA Replication-Dependent Chromatin Assembly (GO:0006335)	1.0	3.228078438186212e-06	23.48621830209482	Gene Regulation
+Parallel Actin Filament Bundle Assembly (GO:0030046)	1.0	0.000982414012369	20.20104314841157	Cellular Structure and Transport
+Histone H4-K5 Acetylation (GO:0043981)	1.0	1.1819731441991249e-17	17.78130217028381	Gene Regulation
+Sphingomyelin Biosynthetic Process (GO:0006686)	0.0	0.0134336755540177	1065.1	Metabolism
+Regulation Of T-helper 1 Cell Differentiation (GO:0045625)	0.0	0.0189788025226597	710.0666666666667	Immune and Stress Response
+Regulation Of Hepatocyte Proliferation (GO:2000345)	0.0	0.0284611121334389	608.6285714285714	Development
+Regulation Of Endothelial Cell Differentiation (GO:0045601)	0.0	4.575242107082225e-06	499.265625	Development
+Inclusion Body Assembly (GO:0070841)	0.0	0.0425506656526371	473.3777777777778	Cellular Structure and Transport
+Nucleobase Catabolic Process (GO:0046113)	0.0	0.0122569907170466	169.06349206349205	Metabolism
+Telomere Maintenance Via Recombination (GO:0000722)	0.0	7.081041095734997e-05	139.22875816993462	Gene Regulation
+Polyol Metabolic Process (GO:0019751)	0.0	0.0304120478416234	119.33893557422968	Metabolism
+Ethanol Catabolic Process (GO:0006068)	0.0	1.379571473930933e-07	40.5752380952381	Metabolism
+Histone H2A Monoubiquitination (GO:0035518)	0.0	0.0373333148802422	40.04135338345864	Gene Regulation
+Regulation Of Macrophage Proliferation (GO:0120040)	0.0	0.0052697288867828	39.816822429906544	Immune and Stress Response
+Formation Of Cytoplasmic Translation Initiation Complex (GO:0001732)	0.0	1.536813251940248e-20	36.918544194107454	Gene Regulation
+Mitochondrial Proton-Transporting ATP Synthase Complex Assembly (GO:0033615)	0.0	4.999105692617044e-09	26.6275	Metabolism
+Regulation Of Mitochondrial mRNA Stability (GO:0044528)	0.0	1.215141528035001e-07	26.105392156862745	Gene Regulation
+Vesicle-Mediated Transport (GO:0016192)	0.0	0.0406784936975741	25.914841849148416	Cellular Structure and Transport
+Regulation Of SA Node Cell Action Potential (GO:0098907)	0.0	0.0073566396199291	25.22439313203079	Development
+Gap Junction Assembly (GO:0016264)	0.0	8.547004425239224e-05	24.31735159817352	Cellular Structure and Transport
+DNA Replication-Dependent Chromatin Assembly (GO:0006335)	0.0	3.228078438186212e-06	23.48621830209482	Gene Regulation
+Parallel Actin Filament Bundle Assembly (GO:0030046)	0.0	0.000982414012369	20.20104314841157	Cellular Structure and Transport
+Histone H4-K5 Acetylation (GO:0043981)	0.0	1.1819731441991249e-17	17.78130217028381	Gene Regulation
+Nuclear-Transcribed mRNA Catabolic Process, Deadenylation-Independent Decay (GO:0031086)	0.0	0.0018808231845185	16.41772639691715	Gene Regulation
+Neutrophil Degranulation (GO:0043312)	0.0	0.0001016505305355	12.996949359365468	Immune and Stress Response
+wrap	-0.5	0.001	1.0	z
+wrap	1.5	0.001	1.0	z

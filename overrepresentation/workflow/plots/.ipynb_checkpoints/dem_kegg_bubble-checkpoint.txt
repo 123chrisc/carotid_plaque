@@ -1,0 +1,23 @@
+pathway	q-value	fold_enrichment	cohort_encoded	class
+AGE-RAGE signaling pathway in diabetic complications	1.0683148554800001e-18	3.2001263976665046	1.0	Human Diseases
+p53 signaling pathway	3.87004161426e-11	2.862847210660558	1.0	Cellular Processes
+Cellular senescence	5.98457568842e-21	2.804925021502562	1.0	Cellular Processes
+Prolactin signaling pathway	1.56937036622e-09	2.705646225432322	1.0	Organismal Systems
+Cell cycle	1.36028650514e-15	2.6860837110103977	1.0	Cellular Processes
+Type II diabetes mellitus	6.37318817414e-06	2.555557904081504	1.0	Human Diseases
+FoxO signaling pathway	1.72164484733e-14	2.5425525203457195	1.0	Environmental Information Processing
+ErbB signaling pathway	7.89522285462e-10	2.5355143126769426	1.0	Environmental Information Processing
+TNF signaling pathway	3.0265859611800007e-12	2.507387665810126	1.0	Environmental Information Processing
+Apoptosis	2.06220433098e-14	2.4970974291515344	1.0	Cellular Processes
+Adherens junction	4.69516522312e-08	2.4835703574876584	1.0	Cellular Processes
+Neurotrophin signaling pathway	1.7993896058400002e-12	2.469656798061957	1.0	Organismal Systems
+HIF-1 signaling pathway	1.27673545086e-09	2.27681713370768	1.0	Environmental Information Processing
+Longevity regulating pathway	4.63534497747e-08	2.2747974851561947	1.0	Organismal Systems
+Thyroid hormone signaling pathway	1.88450015971e-10	2.2669136229042537	1.0	Organismal Systems
+T cell receptor signaling pathway	4.15593344945e-09	2.260685838225945	1.0	Organismal Systems
+Autophagy - animal	2.42394146524e-11	2.240517513635122	1.0	Cellular Processes
+Signaling pathways regulating pluripotency of stem cells	9.60237590622e-12	2.2378506277388146	1.0	Cellular Processes
+TGF-beta signaling pathway	4.86066900564e-08	2.223274961470433	1.0	Environmental Information Processing
+VEGF signaling pathway	2.12558019025e-05	2.213854304854033	1.0	Environmental Information Processing
+wrap	0.001	1.0	-0.5	z
+wrap	0.001	1.0	1.5	z

@@ -1,0 +1,290 @@
+Term,Asymptomatic,Symptomatic
+ABC transporters,4.0,4.0
+AGE-RAGE signaling pathway in diabetic complications,4.0,6.0
+AMPK signaling pathway,11.0,14.0
+Acute myeloid leukemia,10.0,14.0
+Adherens junction,13.0,15.0
+Adipocytokine signaling pathway,4.0,7.0
+Adrenergic signaling in cardiomyocytes,10.0,9.0
+African trypanosomiasis,1.0,4.0
+"Alanine, aspartate and glutamate metabolism",,1.0
+Alcoholism,6.0,6.0
+Aldosterone synthesis and secretion,5.0,3.0
+Aldosterone-regulated sodium reabsorption,2.0,5.0
+Allograft rejection,2.0,3.0
+Alzheimer disease,20.0,21.0
+Aminoacyl-tRNA biosynthesis,6.0,1.0
+Amoebiasis,3.0,4.0
+Amphetamine addiction,3.0,2.0
+Amyotrophic lateral sclerosis,19.0,15.0
+Antigen processing and presentation,7.0,7.0
+Apelin signaling pathway,9.0,9.0
+Apoptosis,6.0,9.0
+Arginine and proline metabolism,4.0,2.0
+Arginine biosynthesis,,1.0
+Arrhythmogenic right ventricular cardiomyopathy,8.0,10.0
+Asthma,,1.0
+Autoimmune thyroid disease,,2.0
+Autophagy,13.0,18.0
+Axon guidance,11.0,13.0
+B cell receptor signaling pathway,4.0,7.0
+Bacterial invasion of epithelial cells,8.0,10.0
+Basal cell carcinoma,5.0,4.0
+Basal transcription factors,1.0,5.0
+Base excision repair,5.0,5.0
+Bile secretion,1.0,
+Biosynthesis of unsaturated fatty acids,6.0,3.0
+Bladder cancer,14.0,17.0
+Breast cancer,8.0,10.0
+Butanoate metabolism,4.0,1.0
+C-type lectin receptor signaling pathway,4.0,7.0
+Caffeine metabolism,,1.0
+Calcium signaling pathway,2.0,3.0
+Carbohydrate digestion and absorption,,2.0
+Cardiac muscle contraction,5.0,1.0
+Cell adhesion molecules,5.0,3.0
+Cell cycle,21.0,23.0
+Cellular senescence,19.0,19.0
+Central carbon metabolism in cancer,13.0,12.0
+Chagas disease,4.0,7.0
+Chemical carcinogenesis,4.0,6.0
+Chemokine signaling pathway,5.0,7.0
+Cholesterol metabolism,6.0,7.0
+Choline metabolism in cancer,5.0,7.0
+Cholinergic synapse,6.0,7.0
+Chronic myeloid leukemia,10.0,14.0
+Circadian entrainment,6.0,5.0
+Circadian rhythm,7.0,7.0
+Citrate cycle (TCA cycle),13.0,10.0
+Cocaine addiction,1.0,
+Collecting duct acid secretion,4.0,3.0
+Colorectal cancer,13.0,17.0
+Complement and coagulation cascades,2.0,3.0
+Coronavirus disease,18.0,22.0
+Cushing syndrome,10.0,9.0
+Cysteine and methionine metabolism,,1.0
+Cytokine-cytokine receptor interaction,1.0,4.0
+Cytosolic DNA-sensing pathway,4.0,10.0
+DNA replication,9.0,9.0
+Diabetic cardiomyopathy,13.0,12.0
+Dilated cardiomyopathy,3.0,4.0
+Dopaminergic synapse,10.0,10.0
+Drug metabolism,1.0,2.0
+ECM-receptor interaction,3.0,4.0
+Endocrine and other factor-regulated calcium reabsorption,7.0,7.0
+Endocytosis,16.0,19.0
+Endometrial cancer,15.0,19.0
+Epithelial cell signaling in Helicobacter pylori infection,9.0,10.0
+Epstein-Barr virus infection,9.0,13.0
+ErbB signaling pathway,8.0,9.0
+Estrogen signaling pathway,6.0,7.0
+Ether lipid metabolism,1.0,
+Fanconi anemia pathway,5.0,5.0
+Fatty acid biosynthesis,4.0,1.0
+Fatty acid degradation,5.0,2.0
+Fatty acid elongation,8.0,2.0
+Fc epsilon RI signaling pathway,6.0,6.0
+Fc gamma R-mediated phagocytosis,8.0,10.0
+Ferroptosis,3.0,3.0
+Fluid shear stress and atherosclerosis,13.0,15.0
+Focal adhesion,7.0,12.0
+Folate biosynthesis,2.0,2.0
+FoxO signaling pathway,10.0,13.0
+Fructose and mannose metabolism,1.0,1.0
+GABAergic synapse,1.0,
+Gap junction,9.0,11.0
+Gastric acid secretion,5.0,5.0
+Gastric cancer,10.0,12.0
+Glioma,11.0,13.0
+Glucagon signaling pathway,8.0,8.0
+Glutamatergic synapse,3.0,2.0
+Glutathione metabolism,1.0,
+Glycerophospholipid metabolism,4.0,3.0
+"Glycine, serine and threonine metabolism",4.0,1.0
+Glycolysis / Gluconeogenesis,7.0,4.0
+Glycosaminoglycan biosynthesis,2.0,1.0
+Glycosaminoglycan degradation,1.0,
+Glycosphingolipid biosynthesis,2.0,
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,5.0,5.0
+Glyoxylate and dicarboxylate metabolism,4.0,1.0
+GnRH secretion,6.0,8.0
+GnRH signaling pathway,7.0,9.0
+Graft-versus-host disease,3.0,4.0
+"Growth hormone synthesis, secretion and action",10.0,11.0
+HIF-1 signaling pathway,14.0,15.0
+Hedgehog signaling pathway,7.0,7.0
+Hematopoietic cell lineage,3.0,4.0
+Hepatitis B,10.0,15.0
+Hepatitis C,12.0,17.0
+Hepatocellular carcinoma,18.0,20.0
+Herpes simplex virus 1 infection,1.0,3.0
+Hippo signaling pathway,12.0,12.0
+Homologous recombination,5.0,5.0
+Human T-cell leukemia virus 1 infection,15.0,18.0
+Human cytomegalovirus infection,13.0,17.0
+Human immunodeficiency virus 1 infection,10.0,14.0
+Human papillomavirus infection,9.0,12.0
+Huntington disease,18.0,19.0
+Hypertrophic cardiomyopathy,5.0,6.0
+IL-17 signaling pathway,4.0,7.0
+Inflammatory bowel disease,1.0,4.0
+Inflammatory mediator regulation of TRP channels,4.0,5.0
+Influenza A,4.0,8.0
+Inositol phosphate metabolism,4.0,7.0
+Insulin resistance,8.0,10.0
+Insulin secretion,6.0,5.0
+Insulin signaling pathway,17.0,19.0
+Intestinal immune network for IgA production,1.0,4.0
+JAK-STAT signaling pathway,4.0,7.0
+Kaposi sarcoma-associated herpesvirus infection,11.0,12.0
+Legionellosis,4.0,6.0
+Leishmaniasis,4.0,7.0
+Leukocyte transendothelial migration,7.0,7.0
+Lipid and atherosclerosis,8.0,11.0
+Long-term depression,5.0,6.0
+Long-term potentiation,8.0,7.0
+Longevity regulating pathway,9.0,11.0
+Lysine degradation,9.0,6.0
+Lysosome,6.0,7.0
+MAPK signaling pathway,7.0,11.0
+Malaria,1.0,3.0
+Mannose type O-glycan biosynthesis,2.0,1.0
+Maturity onset diabetes of the young,4.0,4.0
+Measles,6.0,10.0
+Melanogenesis,9.0,7.0
+Melanoma,9.0,13.0
+Metabolism of xenobiotics by cytochrome P450,1.0,
+MicroRNAs in cancer,5.0,8.0
+Mineral absorption,3.0,2.0
+Mismatch repair,9.0,9.0
+Mitophagy,7.0,7.0
+Morphine addiction,1.0,
+Mucin type O-glycan biosynthesis,2.0,
+N-Glycan biosynthesis,5.0,4.0
+NF-kappa B signaling pathway,4.0,7.0
+NOD-like receptor signaling pathway,4.0,8.0
+Natural killer cell mediated cytotoxicity,3.0,5.0
+Necroptosis,7.0,11.0
+Neuroactive ligand-receptor interaction,2.0,
+Neurotrophin signaling pathway,10.0,13.0
+Neutrophil extracellular trap formation,7.0,12.0
+Nicotine addiction,2.0,
+Non-alcoholic fatty liver disease,8.0,7.0
+Non-homologous end-joining,5.0,5.0
+Non-small cell lung cancer,16.0,18.0
+Notch signaling pathway,8.0,8.0
+Nucleotide excision repair,10.0,14.0
+One carbon pool by folate,4.0,1.0
+Oocyte meiosis,16.0,17.0
+Osteoclast differentiation,4.0,7.0
+Oxidative phosphorylation,4.0,1.0
+Oxytocin signaling pathway,10.0,10.0
+PD-L1 expression and PD-1 checkpoint pathway in cancer,8.0,10.0
+PI3K-Akt signaling pathway,7.0,13.0
+PPAR signaling pathway,4.0,1.0
+Pancreatic cancer,15.0,19.0
+Pancreatic secretion,4.0,4.0
+Pantothenate and CoA biosynthesis,3.0,3.0
+"Parathyroid hormone synthesis, secretion and action",7.0,10.0
+Parkinson disease,18.0,15.0
+Pathogenic Escherichia coli infection,11.0,14.0
+Pathways in cancer,8.0,10.0
+Pathways of neurodegeneration,21.0,19.0
+Pentose and glucuronate interconversions,,1.0
+Peroxisome,5.0,1.0
+Pertussis,5.0,9.0
+Phagosome,10.0,12.0
+Phenylalanine metabolism,,2.0
+"Phenylalanine, tyrosine and tryptophan biosynthesis",,1.0
+Phosphatidylinositol signaling system,6.0,8.0
+Phospholipase D signaling pathway,5.0,7.0
+Phosphonate and phosphinate metabolism,3.0,1.0
+Phototransduction,4.0,4.0
+Platelet activation,7.0,9.0
+Porphyrin and chlorophyll metabolism,4.0,1.0
+Primary immunodeficiency,5.0,7.0
+Prion disease,18.0,17.0
+Progesterone-mediated oocyte maturation,6.0,10.0
+Prolactin signaling pathway,6.0,8.0
+Propanoate metabolism,8.0,5.0
+Prostate cancer,19.0,21.0
+Proteasome,13.0,15.0
+Protein digestion and absorption,5.0,2.0
+Protein export,7.0,4.0
+Protein processing in endoplasmic reticulum,9.0,10.0
+Proteoglycans in cancer,12.0,14.0
+Proximal tubule bicarbonate reclamation,4.0,1.0
+Pyruvate metabolism,4.0,1.0
+RIG-I-like receptor signaling pathway,4.0,6.0
+RNA degradation,5.0,3.0
+RNA polymerase,5.0,9.0
+RNA transport,14.0,11.0
+Rap1 signaling pathway,8.0,11.0
+Ras signaling pathway,7.0,9.0
+Regulation of actin cytoskeleton,12.0,17.0
+Regulation of lipolysis in adipocytes,1.0,3.0
+Relaxin signaling pathway,5.0,7.0
+Renal cell carcinoma,7.0,10.0
+Renin secretion,3.0,3.0
+Retrograde endocannabinoid signaling,4.0,1.0
+Rheumatoid arthritis,4.0,6.0
+Ribosome,16.0,11.0
+Ribosome biogenesis in eukaryotes,10.0,6.0
+SNARE interactions in vesicular transport,4.0,4.0
+Salivary secretion,3.0,1.0
+Salmonella infection,18.0,24.0
+Serotonergic synapse,3.0,3.0
+Shigellosis,14.0,17.0
+Signaling pathways regulating pluripotency of stem cells,12.0,13.0
+Small cell lung cancer,8.0,10.0
+Sphingolipid metabolism,3.0,1.0
+Sphingolipid signaling pathway,5.0,7.0
+Spinocerebellar ataxia,13.0,14.0
+Spliceosome,9.0,9.0
+Staphylococcus aureus infection,2.0,5.0
+Starch and sucrose metabolism,1.0,
+Steroid biosynthesis,5.0,5.0
+Steroid hormone biosynthesis,1.0,
+Synaptic vesicle cycle,7.0,9.0
+Synthesis and degradation of ketone bodies,4.0,1.0
+Systemic lupus erythematosus,4.0,5.0
+T cell receptor signaling pathway,8.0,10.0
+TGF-beta signaling pathway,7.0,6.0
+TNF signaling pathway,4.0,7.0
+Terpenoid backbone biosynthesis,1.0,
+Th1 and Th2 cell differentiation,7.0,11.0
+Th17 cell differentiation,7.0,11.0
+Thermogenesis,5.0,2.0
+Thiamine metabolism,2.0,2.0
+Thyroid cancer,15.0,16.0
+Thyroid hormone signaling pathway,12.0,18.0
+Thyroid hormone synthesis,2.0,3.0
+Tight junction,14.0,17.0
+Toll-like receptor signaling pathway,4.0,8.0
+Toxoplasmosis,4.0,8.0
+Transcriptional misregulation in cancer,7.0,8.0
+Tryptophan metabolism,4.0,1.0
+Tuberculosis,6.0,11.0
+Type I diabetes mellitus,3.0,4.0
+Type II diabetes mellitus,5.0,6.0
+Tyrosine metabolism,,1.0
+Ubiquinone and other terpenoid-quinone biosynthesis,4.0,1.0
+Ubiquitin mediated proteolysis,7.0,7.0
+VEGF signaling pathway,8.0,11.0
+"Valine, leucine and isoleucine degradation",8.0,5.0
+Various types of N-glycan biosynthesis,4.0,4.0
+Vascular smooth muscle contraction,7.0,9.0
+Vasopressin-regulated water reabsorption,4.0,6.0
+Vibrio cholerae infection,4.0,6.0
+Viral carcinogenesis,17.0,25.0
+Viral myocarditis,2.0,5.0
+Viral protein interaction with cytokine and cytokine receptor,,1.0
+Vitamin digestion and absorption,5.0,3.0
+Wnt signaling pathway,10.0,10.0
+Yersinia infection,9.0,11.0
+beta-Alanine metabolism,1.0,1.0
+cAMP signaling pathway,6.0,8.0
+cGMP-PKG signaling pathway,13.0,15.0
+mRNA surveillance pathway,7.0,4.0
+mTOR signaling pathway,11.0,12.0
+p53 signaling pathway,8.0,10.0

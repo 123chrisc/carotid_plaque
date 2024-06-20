@@ -1,0 +1,25 @@
+pathway	cohort_encoded	q-value	fold_enrichment	class
+cochlear nucleus development	1.0	0.0089493691867093	9.996116504854369	Developmental Processes
+sphingolipid translocation	1.0	0.0089023222692558	9.996116504854369	Metabolism
+regulation of mast cell apoptotic process	1.0	0.0089283981985741	9.996116504854369	Immune and Apoptosis
+fungiform papilla formation	1.0	0.0088815709352949	9.996116504854369	Developmental Processes
+osteoblast fate commitment	1.0	0.0089336317262403	9.996116504854369	Developmental Processes
+regulation of cell proliferation involved in heart valve morphogenesis	1.0	0.0088763982090658	9.996116504854369	Developmental Processes
+apoptotic process involved in embryonic digit morphogenesis	1.0	0.0089388713929419	9.996116504854369	Immune and Apoptosis
+intrinsic apoptotic signaling pathway in response to hypoxia	1.0	0.0089179495172417	9.996116504854369	Immune and Apoptosis
+central nervous system morphogenesis	1.0	0.0089441172094871	9.996116504854369	Developmental Processes
+regulation of primary miRNA processing	1.0	0.0007402360967473	8.33009708737864	Gene Regulation
+cytoplasmic sequestering of NF-kappaB	1.0	0.000740891753166	8.33009708737864	Gene Regulation
+maintenance of DNA repeat elements	1.0	0.0007395815997563	8.33009708737864	Gene Regulation
+regulation of protein localization to endoplasmic reticulum	1.0	0.0046763120755409	7.996893203883494	Metabolism
+regulation of termination of DNA-templated transcription	1.0	0.0046700769927735	7.996893203883494	Gene Regulation
+cranial ganglion development	1.0	0.0046638585147539	7.996893203883494	Developmental Processes
+glial cell apoptotic process	1.0	0.0046545617868175	7.996893203883494	Immune and Apoptosis
+hair follicle placode formation	1.0	0.0046607554818099	7.996893203883494	Developmental Processes
+fungiform papilla morphogenesis	1.0	0.0046576565752396	7.996893203883494	Developmental Processes
+regulation of metalloendopeptidase activity	1.0	0.0046669656823187	7.996893203883494	Metabolism
+regulation of ureteric bud formation	1.0	0.0272571723248223	7.497087378640777	Developmental Processes
+regulation of epithelial cell differentiation	0.0	0.0303643179735338	6.359235668789809	Developmental Processes
+regulation of epithelial cell differentiation	1.0	1.6483143462031762e-08	2.737789870756292	Developmental Processes
+wrap	-0.5	0.001	1.0	z
+wrap	1.5	0.001	1.0	z

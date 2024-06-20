@@ -1,0 +1,132 @@
+,Term,Adjusted P-value,Fold_Enrichment,module,cohort
+701,Osmosensory Signaling Pathway (GO:0007231),0.0037824405047221,4.339376655123243,1,symptomatic
+701,Osmosensory Signaling Pathway (GO:0007231),0.0037824405047221,4.339376655123243,1,asymptomatic
+149,Gap Junction Assembly (GO:0016264),0.000629014849618688,6.241429827131556,2,asymptomatic
+119,Histone H4-K5 Acetylation (GO:0043981),1.0889689195725117e-13,9.150343642611684,3,asymptomatic
+119,Histone H4-K5 Acetylation (GO:0043981),1.0889689195725117e-13,9.150343642611684,3,symptomatic
+4,Positive Regulation Of Peptidyl-Serine Phosphorylation Of STAT Protein (GO:0033141),0.000730835534556508,5.321871451283216,4,asymptomatic
+4,Positive Regulation Of Peptidyl-Serine Phosphorylation Of STAT Protein (GO:0033141),0.000730835534556508,5.321871451283216,4,symptomatic
+152,Nuclear Polyadenylation-Dependent tRNA Catabolic Process (GO:0071038),6.767214248547374e-06,12.49384164222874,5,asymptomatic
+61,Regulation Of Mitochondrial mRNA Stability (GO:0044528),1.514436721157024e-07,25.35952380952381,7,asymptomatic
+61,Regulation Of Mitochondrial mRNA Stability (GO:0044528),1.514436721157024e-07,25.35952380952381,7,symptomatic
+4,Ethanol Catabolic Process (GO:0006068),1.379571473930933e-07,40.5752380952381,9,asymptomatic
+4,Ethanol Catabolic Process (GO:0006068),1.379571473930933e-07,40.5752380952381,9,symptomatic
+106,Positive Regulation Of Nuclear Cell Cycle DNA Replication (GO:0010571),0.0160034758294457,16.199239543726236,11,asymptomatic
+106,Positive Regulation Of Nuclear Cell Cycle DNA Replication (GO:0010571),0.0160034758294457,16.199239543726236,11,symptomatic
+0,"Complement Activation, Lectin Pathway (GO:0001867)",2.6407321345440967e-10,155.1116504854369,14,symptomatic
+21,Positive Regulation Of mRNA Binding (GO:1902416),0.0080796871442862,29.341597796143255,15,symptomatic
+13,Regulation Of Macrophage Proliferation (GO:0120040),0.0052697288867828,39.816822429906544,38,asymptomatic
+13,Regulation Of Macrophage Proliferation (GO:0120040),0.0052697288867828,39.816822429906544,38,symptomatic
+194,Aggrephagy (GO:0035973),2.2301312941006457e-05,10.033914272256242,342,asymptomatic
+194,Aggrephagy (GO:0035973),2.2301312941006457e-05,10.033914272256242,342,symptomatic
+132,Zinc Ion Import Into Organelle (GO:0062111),0.00018811068446687,7.734931009440815,343,asymptomatic
+132,Zinc Ion Import Into Organelle (GO:0062111),0.00018811068446687,7.734931009440815,343,symptomatic
+91,Histone H4-K8 Acetylation (GO:0043982),1.2060656128765068e-15,12.634638196915779,344,asymptomatic
+91,Histone H4-K8 Acetylation (GO:0043982),1.2060656128765068e-15,12.634638196915779,344,symptomatic
+150,Polyadenylation-Dependent snoRNA 3'-End Processing (GO:0071051),2.322736177017625e-06,14.630494505494507,345,asymptomatic
+22,Regulation Of Lysosome Size (GO:0062196),0.0099461074682801,6.197846959557753,346,asymptomatic
+22,Regulation Of Lysosome Size (GO:0062196),0.0099461074682801,6.197846959557753,346,symptomatic
+254,Signal Complex Assembly (GO:0007172),1.3983247032196592e-05,15.075725406935598,347,symptomatic
+43,Dense Core Granule Cytoskeletal Transport (GO:0099519),0.0025248495215956,16.436728395061728,348,asymptomatic
+43,Dense Core Granule Cytoskeletal Transport (GO:0099519),0.0025248495215956,16.436728395061728,348,symptomatic
+61,Regulation Of Mitochondrial mRNA Stability (GO:0044528),1.215141528035001e-07,26.105392156862745,349,asymptomatic
+4,Ethanol Catabolic Process (GO:0006068),1.790084810055142e-07,39.01465201465202,351,asymptomatic
+4,Ethanol Catabolic Process (GO:0006068),1.790084810055142e-07,39.01465201465202,351,symptomatic
+39,Regulation Of Pentose-Phosphate Shunt (GO:0043456),0.0022526109206286,17.30111675126904,353,symptomatic
+39,Regulation Of Pentose-Phosphate Shunt (GO:0043456),0.0022526109206286,17.30111675126904,353,asymptomatic
+7,Negative Regulation Of Oxidative Stress-Induced Neuron Death (GO:1903204),0.0223865949649469,28.529464285714287,355,symptomatic
+20,Postsynaptic Membrane Assembly (GO:0097104),0.0013692229233774,13.658630418055912,356,asymptomatic
+28,snRNA Transcription By RNA Polymerase II (GO:0042795),1.9582001727888855e-14,59.53975155279503,358,symptomatic
+13,Regulation Of Macrophage Proliferation (GO:0120040),0.0052697288867828,39.816822429906544,367,asymptomatic
+13,Regulation Of Macrophage Proliferation (GO:0120040),0.0052697288867828,39.816822429906544,367,symptomatic
+216,"Nucleotide-Binding Domain, Leucine Rich Repeat Containing Receptor Signaling Pathway (GO:0035872)",7.457205379585681e-05,12.186498855835241,571,symptomatic
+216,"Nucleotide-Binding Domain, Leucine Rich Repeat Containing Receptor Signaling Pathway (GO:0035872)",7.457205379585681e-05,12.186498855835241,571,asymptomatic
+210,Establishment Of Mitotic Sister Chromatid Cohesion (GO:0034087),1.556151630005925e-06,14.670798898071627,572,symptomatic
+210,Establishment Of Mitotic Sister Chromatid Cohesion (GO:0034087),1.556151630005925e-06,14.670798898071627,572,asymptomatic
+136,Nuclear Polyadenylation-Dependent ncRNA Catabolic Process (GO:0071046),1.5376886888407657e-06,15.651726671565028,573,asymptomatic
+136,Nuclear Polyadenylation-Dependent ncRNA Catabolic Process (GO:0071046),1.5376886888407657e-06,15.651726671565028,573,symptomatic
+0,Intermediate Filament Organization (GO:0045109),1.5555965608728625e-15,5.6986000059447735,574,symptomatic
+0,Intermediate Filament Organization (GO:0045109),1.5555965608728625e-15,5.6986000059447735,574,asymptomatic
+50,Mitochondrial Proton-Transporting ATP Synthase Complex Assembly (GO:0033615),5.790706823484616e-09,26.13742331288344,576,asymptomatic
+110,Neutrophil Degranulation (GO:0043312),0.00010165053053551044,12.996949359365468,577,asymptomatic
+110,Neutrophil Degranulation (GO:0043312),0.00010165053053551044,12.996949359365468,577,symptomatic
+58,"Nuclear-Transcribed mRNA Catabolic Process, Deadenylation-Independent Decay (GO:0031086)",0.0018808231845185,16.41772639691715,578,symptomatic
+58,"Nuclear-Transcribed mRNA Catabolic Process, Deadenylation-Independent Decay (GO:0031086)",0.0018808231845185,16.41772639691715,578,asymptomatic
+1,Regulation Of SA Node Cell Action Potential (GO:0098907),0.0073566396199291,25.22439313203079,579,symptomatic
+1,Regulation Of SA Node Cell Action Potential (GO:0098907),0.0073566396199291,25.22439313203079,579,asymptomatic
+22,Positive Regulation Of Centriole Replication (GO:0046601),2.581546672879491e-07,20.04220430107527,580,symptomatic
+26,"Fatty Acid Elongation, Unsaturated Fatty Acid (GO:0019368)",0.000319846381972924,15.73729314420804,582,asymptomatic
+65,Aminophospholipid Transport (GO:0015917),0.0118720553585567,10.131747919143876,583,asymptomatic
+1,Positive Regulation Of Peptidyl-Serine Phosphorylation Of STAT Protein (GO:0033141),7.39435354509416e-13,36.4646747587924,586,symptomatic
+44,Positive Regulation Of Mitophagy (GO:1901526),0.0029581910043238,16.806311637080867,591,symptomatic
+44,Positive Regulation Of Mitophagy (GO:1901526),0.0029581910043238,16.806311637080867,591,asymptomatic
+36,snRNA Transcription By RNA Polymerase II (GO:0042795),2.5068655645947143e-14,56.721301775147936,594,symptomatic
+13,Regulation Of Macrophage Proliferation (GO:0120040),0.0052697288867828,39.816822429906544,607,asymptomatic
+13,Regulation Of Macrophage Proliferation (GO:0120040),0.0052697288867828,39.816822429906544,607,symptomatic
+127,Aggrephagy (GO:0035973),1.8512894475444648e-06,15.885160328113349,750,asymptomatic
+127,Aggrephagy (GO:0035973),1.8512894475444648e-06,15.885160328113349,750,symptomatic
+260,Signal Complex Assembly (GO:0007172),6.41813235823415e-06,17.123794212218648,751,symptomatic
+75,Response To Increased Oxygen Levels (GO:0036296),7.057545289636581e-06,14.172987358616101,752,asymptomatic
+75,Response To Increased Oxygen Levels (GO:0036296),7.057545289636581e-06,14.172987358616101,752,symptomatic
+26,Regulation Of Lysosome Size (GO:0062196),3.921487371861428e-06,20.02067669172932,753,symptomatic
+0,Intermediate Filament Organization (GO:0045109),9.832702224628561e-15,6.450753274282685,754,asymptomatic
+0,Intermediate Filament Organization (GO:0045109),9.832702224628561e-15,6.450753274282685,754,symptomatic
+54,Histone H4-K5 Acetylation (GO:0043981),1.1819731441991249e-17,17.78130217028381,755,symptomatic
+54,Histone H4-K5 Acetylation (GO:0043981),1.1819731441991249e-17,17.78130217028381,755,asymptomatic
+46,Parallel Actin Filament Bundle Assembly (GO:0030046),0.0009824140123690396,20.20104314841157,757,asymptomatic
+46,Parallel Actin Filament Bundle Assembly (GO:0030046),0.0009824140123690396,20.20104314841157,757,symptomatic
+50,Mitochondrial Proton-Transporting ATP Synthase Complex Assembly (GO:0033615),4.999105692617044e-09,26.6275,758,asymptomatic
+5,Ether Lipid Metabolic Process (GO:0046485),0.0490895448686344,14.795624240319498,760,asymptomatic
+5,Ether Lipid Metabolic Process (GO:0046485),0.0490895448686344,14.795624240319498,760,symptomatic
+23,Formation Of Cytoplasmic Translation Initiation Complex (GO:0001732),2.1610394222281992e-19,30.650359712230212,762,asymptomatic
+36,snRNA Transcription By RNA Polymerase II (GO:0042795),3.7943010023181215e-14,54.46534090909091,768,symptomatic
+69,Positive Regulation Of Nuclear Cell Cycle DNA Replication (GO:0010571),0.0050405543531722,25.460557768924303,805,symptomatic
+69,Positive Regulation Of Nuclear Cell Cycle DNA Replication (GO:0010571),0.0050405543531722,25.460557768924303,805,asymptomatic
+6,Positive Regulation Of Receptor Catabolic Process (GO:2000646),0.0020928285093028,221.89583333333334,839,symptomatic
+0,"Complement Activation, Lectin Pathway (GO:0001867)",3.2128215630124764e-08,156.63235294117646,840,symptomatic
+0,Nucleobase Catabolic Process (GO:0046113),0.0122569907170466,169.06349206349205,852,asymptomatic
+8,Telomere Maintenance Via Recombination (GO:0000722),7.081041095734997e-05,139.22875816993462,857,symptomatic
+8,Telomere Maintenance Via Recombination (GO:0000722),7.081041095734997e-05,139.22875816993462,857,asymptomatic
+0,Negative Regulation Of Peptidyl-Threonine Phosphorylation (GO:0010801),0.0265884338345105,138.32467532467533,867,asymptomatic
+13,Regulation Of Macrophage Proliferation (GO:0120040),0.0052697288867828,39.816822429906544,904,symptomatic
+13,Regulation Of Macrophage Proliferation (GO:0120040),0.0052697288867828,39.816822429906544,904,asymptomatic
+73,Neutrophil Degranulation (GO:0043312),2.8421597643319334e-06,27.34531450577664,1029,symptomatic
+62,ISG15-protein Conjugation (GO:0032020),5.634187511726339e-07,38.38198198198198,1030,symptomatic
+119,DNA Replication-Dependent Chromatin Assembly (GO:0006335),3.2280784381862117e-06,23.48621830209482,1032,asymptomatic
+119,DNA Replication-Dependent Chromatin Assembly (GO:0006335),3.2280784381862117e-06,23.48621830209482,1032,symptomatic
+23,"Nuclear-Transcribed mRNA Catabolic Process, Deadenylation-Independent Decay (GO:0031086)",0.0001414440757036807,36.04399323181049,1034,symptomatic
+8,Gap Junction Assembly (GO:0016264),8.547004425239224e-05,24.317351598173516,1038,asymptomatic
+10,U2-type Prespliceosome Assembly (GO:1903241),2.288922543185167e-36,44.37916666666667,1039,symptomatic
+8,"Negative Regulation Of Retrograde Protein Transport, ER To Cytosol (GO:1904153)",0.0144505768491147,33.14626556016597,1041,symptomatic
+20,Formation Of Cytoplasmic Translation Initiation Complex (GO:0001732),1.536813251940248e-20,36.918544194107454,1043,asymptomatic
+38,Histone H3-K14 Acetylation (GO:0044154),1.783098345194336e-14,58.27294832826748,1045,symptomatic
+10,Protein Retention In ER Lumen (GO:0006621),0.0027762450519994,148.44599303135888,1056,symptomatic
+3,Regulation Of Endothelial Cell Differentiation (GO:0045601),0.0095773980227865,47.549107142857146,1094,asymptomatic
+3,Regulation Of Endothelial Cell Differentiation (GO:0045601),0.0095773980227865,47.549107142857146,1094,symptomatic
+1,Histone H2A Monoubiquitination (GO:0035518),0.0291721423783758,38.35894357743097,1162,symptomatic
+1,Histone H2A Monoubiquitination (GO:0035518),0.0291721423783758,38.35894357743097,1162,asymptomatic
+0,Histone H2A Monoubiquitination (GO:0035518),0.0373333148802422,40.04135338345864,1215,asymptomatic
+0,Histone H2A Monoubiquitination (GO:0035518),0.0373333148802422,40.04135338345864,1215,symptomatic
+0,Sphingomyelin Biosynthetic Process (GO:0006686),0.0015561151095725,387.3090909090909,1307,asymptomatic
+0,Sphingomyelin Biosynthetic Process (GO:0006686),0.0015561151095725,387.3090909090909,1307,symptomatic
+0,Negative Regulation Of Insulin Secretion (GO:0046676),0.0148259907697848,167.07450980392156,1308,asymptomatic
+0,Polyol Metabolic Process (GO:0019751),0.0304120478416234,119.33893557422968,1313,symptomatic
+0,Polyol Metabolic Process (GO:0019751),0.0304120478416234,119.33893557422968,1313,asymptomatic
+0,Negative Regulation Of Execution Phase Of Apoptosis (GO:1900118),9.06644988071977e-05,197.8513931888545,1319,asymptomatic
+4,Positive Regulation Of Activin Receptor Signaling Pathway (GO:0032927),0.0453464395201558,387.3090909090909,1337,symptomatic
+4,Positive Regulation Of Activin Receptor Signaling Pathway (GO:0032927),0.0453464395201558,387.3090909090909,1337,asymptomatic
+2,C-terminal Protein Lipidation (GO:0006501),0.0233989585797138,532.5500000000001,1379,symptomatic
+0,Regulation Of Endothelial Cell Differentiation (GO:0045601),0.00012200682548077266,204.8269230769231,1380,asymptomatic
+0,Regulation Of Endothelial Cell Differentiation (GO:0045601),0.00012200682548077266,204.8269230769231,1380,symptomatic
+0,Regulation Of Endothelial Cell Differentiation (GO:0045601),4.575242107082225e-06,499.265625,1407,asymptomatic
+0,Regulation Of Endothelial Cell Differentiation (GO:0045601),4.575242107082225e-06,499.265625,1407,symptomatic
+3,Inclusion Body Assembly (GO:0070841),0.0425506656526371,473.3777777777778,1410,asymptomatic
+3,Regulation Of Hepatocyte Proliferation (GO:2000345),0.0284611121334389,608.6285714285714,1614,symptomatic
+3,Regulation Of Hepatocyte Proliferation (GO:2000345),0.0284611121334389,608.6285714285714,1614,asymptomatic
+0,Regulation Of T-helper 1 Cell Differentiation (GO:0045625),0.0189788025226597,710.0666666666667,1640,asymptomatic
+13,Regulation Of Macrophage Proliferation (GO:0120040),0.0052697288867828,39.816822429906544,1851,asymptomatic
+13,Regulation Of Macrophage Proliferation (GO:0120040),0.0052697288867828,39.816822429906544,1851,symptomatic
+8,Positive Regulation Of Receptor Binding (GO:1900122),0.0197627566187385,608.6285714285714,1939,symptomatic
+0,Vesicle-Mediated Transport (GO:0016192),0.0406784936975741,25.914841849148416,1962,asymptomatic
+0,Sphingomyelin Biosynthetic Process (GO:0006686),0.0134336755540177,1065.1000000000001,2000,asymptomatic
+0,Positive Regulation Of Immune System Process (GO:0002684),1.8410554999155958e-10,631.1703703703704,2103,symptomatic
